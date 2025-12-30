@@ -1,7 +1,7 @@
 {
     "android": {
         "latestVersion": "4.0.0",
-        "latestBuildNumber": 17,
+        "latestBuildNumber": 16,
         "isRequired": true,
         "downloadUrl": "https://github.com/Abhijith-web-dev/TradeX-apk/raw/main/app-release.apk",
         "releaseNotes": {
