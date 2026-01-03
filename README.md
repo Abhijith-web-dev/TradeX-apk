@@ -7,7 +7,7 @@
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
-**TradeX** is a professional-grade **Paper Trading Application** built for the Indian Stock Market (NSE/BSE). It allows students and beginners to practice trading with **₹10,00,000 virtual capital** using real-time market data, without the risk of losing actual money.
+**TradeX** is a professional-grade **Paper Trading Application** built for the Indian Stock Market (NSE/BSE). It allows students and beginners to practice trading with **₹1,00,000 virtual capital** using real-time market data, without the risk of losing actual money.
 
 ---
 
